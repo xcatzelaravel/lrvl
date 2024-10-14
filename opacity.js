@@ -1,4 +1,3 @@
-<script type="text/javascript">
       document.addEventListener("DOMContentLoaded", function() {
       (function(){
         var due_date = new Date('2024-10-15');
@@ -21,4 +20,3 @@
         
       })()
     });
-    </script>
